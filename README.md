@@ -126,5 +126,3 @@ chmod +x manager.sh
 4.  メニュー **[3]** でBotをバックグラウンド起動します。
 
 ---
-
-**Created by @aixxww **
